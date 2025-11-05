@@ -14,10 +14,10 @@
     * Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
 
 Checklist:
-- [ ] Create a branch called `assignment-one`.
-- [ ] Ensure that the repository is public.
-- [ ] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
-- [ ] Verify that the link is accessible in a private browser window.
+- [x] Create a branch called `assignment-one`.
+- [x] Ensure that the repository is public.
+- [x] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
+- [x] Verify that the link is accessible in a private browser window.
 
 If you encounter any difficulties or have questions, please don't hesitate to reach out to our team via our Slack. Our Technical Facilitators and Learning Support staff are here to help you navigate any challenges.
 
@@ -206,4 +206,16 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 ```
 Your thoughts...
-```
+
+--Yanfei Lu
+
+
+Today, databases shape various aspect of our daily lives, including how our names are stored, how our identities are verified, and how we access essential services. As a linguistics student researching in the field of Indigenous language revitalization, I have been deeply struck by several news stories in recent years about Indigenous families who were unable to register the names of their newborns because official systems could not recognize the characters used in their ancestral languages. For many Indigenous individuals, not being able to record their or their children's names in their ancestral languages in government databases is not merely an inconvenience. It represents a form of exclusion. Many government and corporate data systems in Canada have been designed to accommodate only English and French characters, reflecting the colonial history that regard these languages as the “official” and “standard” forms of communication. When an Indigenous name written in syllabics or with unique diacritics is rejected by a system, it sends a message that these names, and by extension, the cultures they come from, do not belong within the official record. In this sense, databases are not just collections of data, they are representations of what a society deems valid. When government systems only accommodate certain languages, they are also determining whose identities are recognized and whose are marginalized. 
+
+In the recent years, this issue has begun to be acknowledged, and initiatives have been put in place to reform the systems. For instance, British Columbia’s recent initiative to modernize over 1,200 government systems marks a significant step toward change. The province has committed to including Indigenous place names on maps, websites, and forms as well as allowing the usage of Indigenous language names in all interactions with the BC government by January 2034. This initiative acknowledges that technology is not separate from society. It is an important step towards decolonizing data, which requires recognizing data sovereignty and valuing Indigenous worldviews. It illustrates the importance of designing data systems that can evolve to constantly reflect values of respect and accommodate changes in society. 
+
+This article has opened my eyes to see that every form and every drop-down menu can carry cultural assumptions about what "fits" and what doesn't. It reminds us that the values we choose to embed in our database and data system designs can determine whether inequality is reinforced or challenged.
+
+
+
+
