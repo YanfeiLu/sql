@@ -14,10 +14,10 @@
     * Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
 
 Checklist:
-- [ ] Create a branch called `assignment-two`.
-- [ ] Ensure that the repository is public.
-- [ ] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
-- [ ] Verify that the link is accessible in a private browser window.
+- [x] Create a branch called `assignment-two`.
+- [x] Ensure that the repository is public.
+- [x] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
+- [x] Verify that the link is accessible in a private browser window.
 
 If you encounter any difficulties or have questions, please don't hesitate to reach out to our team via our Slack. Our Technical Facilitators and Learning Support staff are here to help you navigate any challenges.
 
@@ -185,3 +185,10 @@ Consider, for example, concepts of labour, bias, LLM proliferation, moderating c
 ```
 Your thoughts...
 ```
+--Yanfei Lu
+
+This article reveals that artificial intelligence may not be as “artificial” as we commonly think. Datasets, models, and neural nets are often built on the foundation of human labor, judgment, and values. Annotation, moderation, and categorization which are essential to machine learning have been performed by workers or students who are often underpaid and whose contributions are usually unacknowledged. Furthermore, this work is frequently emotionally demanding, and can involve traumatic materials. This means that the individuals who are often those least recognized for the progress of these technologies are also the least protected.
+
+Meanwhile, as the labeling and annotations are essentially decisions made by humans, they can reflect cultural, historical, and political views of these individuals. Models trained on these data would consequently acquire human biases, which can then become reproduced and amplified while appearing as objective truth produced by machines. As more and more of these models become embedded in search engines and everyday tools, they can shape the cultural and informational environment where data will be drawn for future training. This creates a loop where human judgments shape AI then AI moves on to shape human judgments. This raises the question and concern: who has the power to decide what is true or false, normal or irrational, beneficial or harmful? 
+
+This article reminds us that ethics of AI is not merely a technical issue but a societal one. It requires recognizing and acknowledging the human labor that makes these models possible, investigating the biases and stereotypes embedded in them, as well as developing governance structures that reflect equality, respect, and diversity. Only then can we build AI systems that serve society transparently and ethically.
